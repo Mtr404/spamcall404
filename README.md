@@ -7,7 +7,7 @@ How To Install
 $ pkg update && pkg upgrade
 $ pkg install python
 $ pkg install git
-$ git clone 
+$ git clone https://github.com/Mtr404/spamcall404
 $ cd C-SpamMasal
 $ python call.py
 
