@@ -1,16 +1,12 @@
-Spam Telpon Masal
-
-Spam telepon massal hasil modif dari script WidhiSec
-
-How To Install
+Spam Call Unlimited
 
 $ pkg update && pkg upgrade
-$ pkg install python
+$ pkg install php
 $ pkg install git
-$ git clone https://github.com/Mtr404/spamcall404
-$ cd C-SpamMasal
-$ python call.py
-
-Note
-
-Ini adalah script modifikasi dari script 'https://github.com/Hax28dh8Sec/Tlpnspammer' yaa... 
+$ git clone https://github.com/https://github.com/Mtr404/spamcall404
+$ cd SpamSms
+$ php SpamCall.php
+Masukan No Target ===>
+Mode Banyak (y/n) ===> UNTUK Spam Lebih Dari 1
+JumlahSpam ===> Masukan Jumlah yang ingin dispam
+[Succes]
